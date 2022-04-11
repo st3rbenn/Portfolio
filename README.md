@@ -4,8 +4,8 @@
 
 ## Description
 #### J'ai décidé recemment de me lancé dans la création de mon portfolio avec les technologies suivante :
-- ####React bien sur qui est le cœur du projet
-- ####pour le style je vais utiliser "[Styled Components](https://styled-components.com/)"
+- React bien sur qui est le cœur du projet
+- pour le style je vais utiliser "[Styled Components](https://styled-components.com/)"
 
 Alors que ce projet est en cours de développement, je vous invite à me contacter pour toute question ou suggestion.
 ### Contact
